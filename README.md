@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
+![MasterHead]([https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif))
 <h1 align="center">Hi 👋, I'm Rafael Learth</h1>
 <h3 align="center">I am a Computer Engineering student.</h3>
 
