@@ -1,6 +1,9 @@
+[!MasterHead](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
 <h1 align="center">Hi 👋, I'm Rafael Learth</h1>
 <h3 align="center">I am a Computer Engineering student.</h3>
-<img align="right" alt="Codigo" width="400"src=https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif>
+
+<img align="right" alt="Codigo" width="400"src=https://miro.medium.com/v2/resize:fit:1000/1*63sGPbvLLpvlD16hG1bvmA.gif>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaellearth&label=Profile%20views&color=0e75b6&style=flat" alt="rafaellearth" /> </p>
 
 - 🔭 I’m currently working on **Brain-Computer Interface (BCI)**
